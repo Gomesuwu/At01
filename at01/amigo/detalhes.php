@@ -42,6 +42,7 @@
                     echo "<tr><td>".$coluna['hobbies']."</td></tr>";
                 }
                 }
+                echo "teste";
 
 ?>
 </tbody>
